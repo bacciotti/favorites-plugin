@@ -1,0 +1,15 @@
+{
+  "name": "log/favorites-plugin",
+  "description": "Mark a post as a favorite.",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Lucas Bacciotti Moreira",
+      "email": "lbaciotti@gmail.com"
+    }
+  ],
+  "require-dev": {
+    "phpunit/phpunit": "9"
+  }
+}
