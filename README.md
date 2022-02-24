@@ -16,7 +16,7 @@
 - PHPCS - CodeSniffer.
 - WPCS - WordPress Code Standards.
 - PHPCBF - CodeBeautifier.
-- PHPUnit 9.0.0
+- PHPUnit 9.0.0 (need improvements)
 
 ### How does this plugin work?
 - You can mark a post (only posts!) as favorite (bookmark) with the custom field on the sidebar on posts edit page.
@@ -25,7 +25,7 @@
 
 ### Future work | To-Do
 - Finish REST API calls.
-- Implement autoload class.
+- Improve autoload class.
 - Improve testing.
 
 ### Contribute | Support
@@ -35,5 +35,4 @@ Please, contact the author.
 - **Why the project dont have WP PHPUnit lib?**  
 A: Because it would take a long time preparing the enviornment, once I am using Windows and WP-CLI/WP Testing Tools needs bash (Linux).
 - **Can I install the plugin with Composer?**  
-A: Yes, just type this:  
-`composer ZXXXXXX` 
+A: Yes, just insert in your `composer.json file`. 
