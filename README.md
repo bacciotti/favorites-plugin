@@ -34,5 +34,4 @@ Please, contact the author.
 ### FAQ
 - **Why the project dont have WP PHPUnit lib?**  
 A: Because it would take a long time preparing the enviornment, once I am using Windows and WP-CLI/WP Testing Tools needs bash (Linux).
-- **Can I install the plugin with Composer?**  
-A: Yes, just insert in your `composer.json file`. 
+
