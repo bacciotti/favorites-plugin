@@ -40,7 +40,7 @@ define( 'FAVORITES_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
  * @since 1.0.0
  */
 
-require_once FAVORITES_PLUGIN_DIR . '/vendor/autoload.php';
+//require_once FAVORITES_PLUGIN_DIR . '/vendor/autoload.php';
 require_once FAVORITES_PLUGIN_DIR . '/src/class-api.php';
 require_once FAVORITES_PLUGIN_DIR . '/src/class-button.php';
 require_once FAVORITES_PLUGIN_DIR . '/src/class-favorites.php';
