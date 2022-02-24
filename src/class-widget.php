@@ -64,7 +64,7 @@ class Widget extends \WP_Widget {
 		if ( isset( $title ) ) {
 			echo '<p>' . esc_html( $instance['title'] ) . '</p>';
 		}
-		echo esc_html( $this->format_favorites_list() );
+		echo $this->format_favorites_list();
 	}
 
 	/**
